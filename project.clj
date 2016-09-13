@@ -1,6 +1,6 @@
-(defproject lein-essthree "0.2.3-SNAPSHOT"
+(defproject sparkfund/lein-essthree "0.2.3"
   :description "Leiningen plugin for easy S3 project deployment and dependency resolution"
-  :url "http://github.com/dparis/lein-essthree"
+  :url "http://github.com/SparkFund/lein-essthree"
   :license {:name "MIT License"
             :url "http://opensource.org/licenses/MIT"}
 
