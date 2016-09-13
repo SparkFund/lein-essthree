@@ -1,10 +1,10 @@
-# lein-essthree
+# spark-lein-essthree
 
 Leiningen plugin for easy S3 project deployment and dependency resolution
 
-[![Clojars Project](http://clojars.org/lein-essthree/latest-version.svg)](http://clojars.org/lein-essthree)
+[![Clojars Project](http://clojars.org/sparkfund/spark-lein-essthree/latest-version.svg)](http://clojars.org/sparkfund/spark-lein-essthree)
 
-Just add `lein-essthree` to your project plugins and you're ready to
+Just add `sparkfund/spark-lein-essthree` to your project plugins and you're ready to
 configure and deploy.
 
 ## Another S3 lein plugin?
