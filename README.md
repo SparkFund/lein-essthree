@@ -156,5 +156,6 @@ for supporting contributions to the open-source Clojure community.
 ## License
 
 Copyright © 2015 Dylan Paris
+Copyright © 2016 SparkFund
 
 Distributed under the MIT License.
