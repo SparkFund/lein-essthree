@@ -5,6 +5,7 @@
             :url "http://opensource.org/licenses/MIT"}
 
   :source-paths ["src/clj"]
+  :java-source-paths ["src/java"]
 
   :min-lein-version "2.0.0"
 
@@ -12,6 +13,7 @@
                  [amazonica "0.3.74"]
                  [com.amazonaws/aws-java-sdk-core "1.10.49"]
                  [com.amazonaws/aws-java-sdk-s3 "1.10.49"]
+                 [org.apache.maven.wagon/wagon-provider-api "2.10"]
                  [org.springframework.build/aws-maven "5.0.0.RELEASE"
                   :exclusions [joda-time]]
                  [funcool/cuerdas "0.7.2"]
