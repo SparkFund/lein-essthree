@@ -4,6 +4,8 @@
   :license {:name "MIT License"
             :url "http://opensource.org/licenses/MIT"}
 
+  :source-paths ["src/clj"]
+
   :min-lein-version "2.0.0"
 
   :dependencies [[joda-time "2.9.3"]
