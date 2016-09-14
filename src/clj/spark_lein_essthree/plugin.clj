@@ -1,6 +1,5 @@
-(ns lein-essthree.plugin
+(ns spark-lein-essthree.plugin
   (:require [lein-essthree.repository :as er]))
-
 
 (defn middleware
   [project]
